@@ -1,0 +1,13 @@
+leftnav:
+- identifier: 210eaacb-d63a-42bd-80e6-0450fd2711e1
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: 0d275120-aed7-40c6-b602-ae04f6b10595
+  name: Lecture Notes
+  url: /pages/lecture-notes
+  weight: 20
+- identifier: e6e02013-a22f-45df-bda4-58a028256cbf
+  name: Supplementary notes
+  url: /pages/supplementary-notes
+  weight: 30
