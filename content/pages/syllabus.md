@@ -28,7 +28,7 @@ This course will introduce the concepts and formalism at the foundations of stat
 
 ### Topic Outline
 
-- **Calculus, Probability, and Combinatorics**: integration and differentiation; normalization, means,   
+- **Calculus, Probability, and Combinatorics**: integration and differentiation; normalization, means,    
     and variances; permutations and combinations
 - **Entropy**: game of twenty questions; S = log2 definition; more general S = 􀀀Pi pi log2 pi definition; connection to physical systems
 - **Laws of Thermodynamics**: equilibrium temperature; you cannot win, but you can break even; you can only break even at absolute zero; you cannot reach absolute zero
@@ -45,8 +45,8 @@ This course will introduce the concepts and formalism at the foundations of stat
 There are {{% resource_link "311b8a27-7162-417d-8ab0-db1ce379098f" "lecture notes" %}} for the course. We will not have a formal textbook, however, many useful references can be found online.
 
 - [MIT 8.044 OCW Course site](https://ocw.mit.edu/courses/8-044-statistical-physics-i-spring-2013/): OpenCourseWare collection of materials for MIT’s 8.044, the first statistical physics course in the undergraduate physics sequence.
-- Stanford Statistical Physics by Susskind: A series of seven lectures on statistical physics. This is a more advanced course which concludes by discussing quantum systems.
-- Entropy, Order Parameters, and Complexity by Sethna: Online version of a modern textbook on statistical physics. Covers many unique applications of statistical physics in the problems. This course overlaps with chapters 1, 3, 5, and 6.
+- [Stanford Statistical Physics by Susskind](https://www.youtube.com/playlist?list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0): A series of seven lectures on statistical physics. This is a more advanced course which concludes by discussing quantum systems.
+- [Entropy, Order Parameters, and Complexity by Sethna](https://sethna.lassp.cornell.edu/StatMech/EntropyOrderParametersComplexity20.pdf): Online version of a modern textbook on statistical physics. Covers many unique applications of statistical physics in the problems. This course overlaps with chapters 1, 3, 5, and 6.
 
 ### Assignments
 
