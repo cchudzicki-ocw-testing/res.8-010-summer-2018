@@ -28,9 +28,9 @@ This course will introduce the concepts and formalism at the foundations of stat
 
 ### Topic Outline
 
-- **Calculus, Probability, and Combinatorics**: integration and differentiation; normalization, means,      
+- **Calculus, Probability, and Combinatorics**: integration and differentiation; normalization, means,       
     and variances; permutations and combinations
-- **Entropy**: game of twenty questions; \\(S=\\log\_2\\Omega\\) definition; more general \\(S=-\\Sigma\_ip\_i\\log\_2pi\\) definition; connection to physical systems
+- **Entropy**: game of twenty questions; \\(S=\log_2\Omega\\) definition; more general \\(S=-\Sigma_ip_i\log_2pi\\) definition; connection to physical systems
 - **Laws of Thermodynamics**: equilibrium temperature; you cannot win, but you can break even; you can only break even at absolute zero; you cannot reach absolute zero
 - **Free Energy and Phases**: definition of microstate and macrostate; free energy and 2nd law under constant temperature; order parameter and phase transition
 - **Boltzmann distribution**: derivation of Boltzmann distribution; definition of partition function; relationship between partition function and free energy
@@ -42,7 +42,7 @@ This course will introduce the concepts and formalism at the foundations of stat
 
 ### Lecture Notes and Online Resources
 
-There are {{% resource_link "311b8a27-7162-417d-8ab0-db1ce379098f" "lecture notes" %}} for the course. We will not have a formal textbook, however, many useful references can be found online.
+There are {{% resource_link "0d275120-aed7-40c6-b602-ae04f6b10595" "lecture notes" %}} for the course. We will not have a formal textbook, however, many useful references can be found online.
 
 - [MIT 8.044 OCW Course site](https://ocw.mit.edu/courses/8-044-statistical-physics-i-spring-2013/): OpenCourseWare collection of materials for MIT’s 8.044, the first statistical physics course in the undergraduate physics sequence.
 - [Stanford Statistical Physics by Susskind](https://www.youtube.com/playlist?list=PLpGHT1n4-mAsJ123W3fjPzvlDHOvIhHA0): A series of seven lectures on statistical physics. This is a more advanced course which concludes by discussing quantum systems.
