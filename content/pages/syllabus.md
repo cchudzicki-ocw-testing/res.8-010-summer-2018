@@ -1,13 +1,16 @@
 ---
 content_type: page
-description: Syllabus
+description: 'Syllabus
+
+  This course introduces the concepts and formalism at the foundations of statistical
+  physics.'
 draft: false
 title: Syllabus
 uid: 210eaacb-d63a-42bd-80e6-0450fd2711e1
 ---
 ### Course Meeting Times
 
-Lectures: 2 sessions / week, 1.5 hours / session
+Lectures: 3 sessions / week, 1.5 hours / session
 
 Recitations: 1 session / week, 1 hour / session. Attending recitation is mandatory.
 
@@ -17,30 +20,25 @@ This course is offered as part of [Minority Introduction to Engineering and Scie
 
 ### Prerequisites
 
-With regard to mathematics, students should be proficient in algebra, matrix addition/multiplication, trigonometry, analytic geometry, and basic differentiation/integration. With regard to physics, students should have had prior exposure to and practice with Newton’s laws of motion, 1D kinematics, 2D projectile motion, and conservation of energy/momentum.
+Students should be proficient in algebra, trigonometry, and basic differentiation and integration. Students should also have had prior exposure to and practice with Newton’s laws of motion, 1D kinematics, and conservation of energy.
 
 ### Description
 
-This course will cover the basic mathematics and physics of oscillatory and wave phenomena. Content-wise, by the end of the course, students should be able to explain why oscillations appear in many near equilibrium systems, the various mathematical properties of those oscillations in various contexts, how oscillations and waves are related, and the basic mathematical description and properties of a wave. Skill-wise, students should become adept at translating conceptual understanding into mathematical explanations, writing short programs to solve analytical systems, and developing clear questions about physical systems.
+This course will introduce the concepts and formalism at the foundations of statistical physics. Statistical physics concerns the physics of systems with many degrees of freedom. In terms of content, by the end of the course, students should understand qualitative and quantitative definitions of entropy, the implications of the laws of thermodynamics, and why the Boltzmann distribution is important in modeling systems at finite temperature. In terms of skills, students should have increased their familiarity with mathematical methods in the physical science, learned how to write short programs to simulate random events, and become more adept at articulating their understanding of physics.
 
 ### Topic Outline
 
-- Simple Harmonic Oscillator: equation of motion, solutions to equation of motion, classical pendulum
-- Damped Oscillator: underdamped, overdamped, and critically damped oscillator
-- Forced Oscillator and Resonance: pushing friend on a swing, resonance, beating, amplitude and          
-    phase
-- Coupled Oscillations and Normal Modes: two masses connected by springs, eigenvalues and eigenvectors,          
-    three masses connected by springs, N masses connected by springs
-- Wave Equation and Standing Waves: N → ∞ limit of coupled oscillators, transverse and longitudinal          
-    waves, boundary conditions, Fourier series
-- Traveling Waves: traveling wave solutions, relationship between traveling wave and standing waves,          
-    reflection and transmission of a wave, wave through a medium
-- Electromagnetic Waves: electromagnetic phenomena, Maxwell’s equations, wave equation, speed of          
-    light, properties of electromagnetic waves
-- Linear Systems: one-dimensional linear systems, fixed points, stability, bifurcations
-- Phase Space: two-dimensional linear systems, stability, graphical characterization of two-dimensional          
-    linear systems
-- Limit Cycles: self-oscillations, alone on a swing
+- **Calculus, Probability, and Combinatorics**: integration and differentiation; normalization, means,  
+    and variances; permutations and combinations
+- **Entropy**: game of twenty questions; S = log2 definition; more general S = 􀀀Pi pi log2 pi definition; connection to physical systems
+- **Laws of Thermodynamics**: equilibrium temperature; you cannot win, but you can break even; you can only break even at absolute zero; you cannot reach absolute zero
+- **Free Energy and Phases**: definition of microstate and macrostate; free energy and 2nd law under constant temperature; order parameter and phase transition
+- **Boltzmann distribution**: derivation of Boltzmann distribution; definition of partition function; relationship between partition function and free energy
+- **Ideal Gases**: partition function; average energy; ideal gas law; entropy
+- **Laplace’s method**: evaluating exponential integrals; mean field model
+- **DNA dimerization**: model of interacting single-stranded DNA
+- **Simulating systems**: Markov Chain Monte Carlo simulation
+- **Non-equilibrium statistical physics**: master equation and diffusion equation
 
 ### Lecture Notes and Online Resources
 
