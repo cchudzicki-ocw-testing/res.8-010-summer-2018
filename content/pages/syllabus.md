@@ -28,9 +28,9 @@ This course will introduce the concepts and formalism at the foundations of stat
 
 ### Topic Outline
 
-- **Calculus, Probability, and Combinatorics**: integration and differentiation; normalization, means,     
+- **Calculus, Probability, and Combinatorics**: integration and differentiation; normalization, means,      
     and variances; permutations and combinations
-- **Entropy**: game of twenty questions; *S* = log2 definition; more general *S* = 􀀀Pi pi log2 pi definition; connection to physical systems
+- **Entropy**: game of twenty questions; \\(S=\\log\_2\\Omega\\) definition; more general \\(S=-\\Sigma\_ip\_i\\log\_2pi\\) definition; connection to physical systems
 - **Laws of Thermodynamics**: equilibrium temperature; you cannot win, but you can break even; you can only break even at absolute zero; you cannot reach absolute zero
 - **Free Energy and Phases**: definition of microstate and macrostate; free energy and 2nd law under constant temperature; order parameter and phase transition
 - **Boltzmann distribution**: derivation of Boltzmann distribution; definition of partition function; relationship between partition function and free energy
