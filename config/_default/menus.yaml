@@ -3,23 +3,27 @@ leftnav:
   name: Syllabus
   url: /pages/syllabus
   weight: 10
+- identifier: 1e96c9c6-44e1-4191-8866-61676397b8a0
+  name: Calendar
+  url: /pages/calendar
+  weight: 20
 - identifier: 0d275120-aed7-40c6-b602-ae04f6b10595
   name: Lecture Notes
   url: /pages/lecture-notes
-  weight: 20
+  weight: 30
 - identifier: e6e02013-a22f-45df-bda4-58a028256cbf
   name: Supplementary Notes
   url: /pages/supplementary-notes
-  weight: 30
+  weight: 40
 - identifier: 325a15c0-f720-4275-b2e7-6e70a2442e93
   name: Mathematica Codes
   url: /pages/mathematica-codes
-  weight: 40
+  weight: 50
 - identifier: 8e96537a-8c42-4123-9e7f-945a6018bca6
   name: Problem sets
   url: /pages/problem-sets
-  weight: 50
+  weight: 60
 - identifier: b3a598b5-d63b-406b-b5cb-c6e355cb912f
   name: Exams
   url: /pages/exams
-  weight: 60
+  weight: 70
