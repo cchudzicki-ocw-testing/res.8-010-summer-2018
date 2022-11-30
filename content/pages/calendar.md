@@ -23,8 +23,6 @@ uid: 1e96c9c6-44e1-4191-8866-61676397b8a0
 
 **Lecture 6: Boltzmann Distribution and Partition Function**
 
-**Midterm Exam**
-
 **Lecture 7: Statistical Physics of the Ideal Gas**
 
 *Problem Set 4 due*
