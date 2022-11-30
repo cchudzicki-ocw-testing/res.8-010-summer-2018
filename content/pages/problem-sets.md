@@ -6,7 +6,7 @@ draft: false
 title: Problem Sets
 uid: 8e96537a-8c42-4123-9e7f-945a6018bca6
 ---
-### Starter problems
+### Starter Problems
 
 {{% resource_link "35c8c73d-a467-4fbd-88af-9174008b9e08" "Starter Problem Set with Solutions (PDF)" %}}
 
