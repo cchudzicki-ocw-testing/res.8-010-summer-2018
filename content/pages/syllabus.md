@@ -28,7 +28,7 @@ This course will introduce the concepts and formalism at the foundations of stat
 
 ### Topic Outline
 
-- **Calculus, Probability, and Combinatorics**: integration and differentiation; normalization, means,       
+- **Calculus, Probability, and Combinatorics**: integration and differentiation; normalization, means,        
     and variances; permutations and combinations
 - **Entropy**: game of twenty questions; \\(S=\log_2\Omega\\) definition; more general \\(S=-\Sigma_ip_i\log_2pi\\) definition; connection to physical systems
 - **Laws of Thermodynamics**: equilibrium temperature; you cannot win, but you can break even; you can only break even at absolute zero; you cannot reach absolute zero
@@ -62,9 +62,9 @@ Finally, in writing up your work, it is important to not only write out derivati
 
 *Due Dates*: Except for the last assignment, problem sets will be due on Wednesday the morning before the start of class. The last assignment will be due on the day before the final exam..
 
-### Exams
+### Exam
 
-There will be a midterm and a final exam.
+There will be a final exam.
 
 ### Evaluation
 
