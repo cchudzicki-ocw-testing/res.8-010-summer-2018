@@ -8,13 +8,13 @@ uid: 8e96537a-8c42-4123-9e7f-945a6018bca6
 ---
 ### Starter problems
 
-Starter Problem Set with Solutions (PDF)
+{{% resource_link "35c8c73d-a467-4fbd-88af-9174008b9e08" "Starter Problem Set with Solutions (PDF)" %}}
 
-Workshop Problem Set 1: Taylor Series, Probability, and Combinatorics (PDF)
+{{% resource_link "d580a812-aba4-4e23-aa3a-1bacc0cd0965" "Workshop Problem Set 1: Taylor Series, Probability, and Combinatorics (PDF)" %}}
 
-Workshop Problem Set 2: Mean-Field Ising Model (PDF)
+{{% resource_link "4c789ea1-01f3-437d-bd3b-33ef4b39de38" "Workshop Problem Set 2: Mean-Field Ising Model (PDF)" %}}
 
-Workshop Problem Set 3: Simulating a Spin System (PDF)
+{{% resource_link "1974feba-94a2-47ab-ab86-983688a35366" "Workshop Problem Set 3: Simulating a Spin System (PDF)" %}}
 
 ### Assignments
 
