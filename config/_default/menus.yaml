@@ -20,10 +20,10 @@ leftnav:
   url: /pages/mathematica-codes
   weight: 50
 - identifier: 8e96537a-8c42-4123-9e7f-945a6018bca6
-  name: Problem sets
+  name: Problem Sets
   url: /pages/problem-sets
   weight: 60
 - identifier: b3a598b5-d63b-406b-b5cb-c6e355cb912f
-  name: Exams
+  name: Final Exam
   url: /pages/exams
   weight: 70
