@@ -2,7 +2,7 @@
 content_type: page
 description: This page includes final exam information, final exam, and solutions.
 draft: false
-title: Exam
+title: Final Exam
 uid: b3a598b5-d63b-406b-b5cb-c6e355cb912f
 ---
 {{% resource_link "8331e56d-8f78-47dc-a6d1-5af60e436700" "Final Exam Information (PDF)" %}}
