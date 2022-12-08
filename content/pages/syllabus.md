@@ -18,7 +18,7 @@ Recitations: 1 session / week, 1 hour / session. Attending recitation is mandato
 
 This course was offered as part of [MITES Summer](https://mites.mit.edu/discover-mites/mites-summer/), a six-week, residential STEM experience for rising high school seniors. [MIT Introduction to Technology, Engineering, and Science (MITES)](https://mites.mit.edu/) provides transformative experiences that bolster confidence, create lifelong community, and build an exciting, challenging foundation in STEM for highly motivated 7th–12th grade students from diverse and underrepresented backgrounds.
 
-Users can learn about Dr. Mobolaji's experiences teaching both *Introduction to Statistical Physics* and another MITES course, *Introduction to Oscillations and Waves,* at the Instructor Insights page for that course.
+Users can learn about Dr. Mobolaji's experiences teaching both *Introduction to Statistical Physics* and another MITES course, *Introduction to Oscillations and Waves,* at the [Instructor Insights page](https://ocw.mit.edu/courses/res-8-009-introduction-to-oscillations-and-waves-summer-2017/pages//instructor-insights) for that course.
 
 ### Prerequisites
 
@@ -30,7 +30,7 @@ This course will introduce the concepts and formalism at the foundations of stat
 
 ### Topic Outline
 
-- **Calculus, Probability, and Combinatorics**: integration and differentiation; normalization, means,            
+- **Calculus, Probability, and Combinatorics**: integration and differentiation; normalization, means,             
     and variances; permutations and combinations
 - **Entropy**: game of twenty questions; \\(S=\log_2\Omega\\) definition; more general \\(S=-\Sigma_ip_i\log_2pi\\) definition; connection to physical systems
 - **Laws of Thermodynamics**: equilibrium temperature; you cannot win, but you can break even; you can only break even at absolute zero; you cannot reach absolute zero
