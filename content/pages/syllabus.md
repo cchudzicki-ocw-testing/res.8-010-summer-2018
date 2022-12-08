@@ -30,7 +30,7 @@ This course will introduce the concepts and formalism at the foundations of stat
 
 ### Topic Outline
 
-- **Calculus, Probability, and Combinatorics**: integration and differentiation; normalization, means,              
+- **Calculus, Probability, and Combinatorics**: integration and differentiation; normalization, means,               
     and variances; permutations and combinations
 - **Entropy**: game of twenty questions; \\(S=\log_2\Omega\\) definition; more general \\(S=-\Sigma_ip_i\log_2pi\\) definition; connection to physical systems
 - **Laws of Thermodynamics**: equilibrium temperature; you cannot win, but you can break even; you can only break even at absolute zero; you cannot reach absolute zero
@@ -60,7 +60,7 @@ In completing these assignments, you can use online resources and your peers for
 
 *Note on Collaboration*: To prevent any mistakes in this direction, at the end of your assignment, list the people you collaborated with and the online resources you referenced. This list does not mean you can copy derivations from your friends as long as you cite them. Any work you submit must follow from your own reasoning.
 
-Finally, in writing up your work, it is important to not only write out derivations but to include an explanation of your mathematical derivations. In short, you need both words and equations in your solution. The lecture supplement (”Sup 01” on the course website) will review the proper format for writing up your solutions.
+Finally, in writing up your work, it is important to not only write out derivations but to include an explanation of your mathematical derivations. In short, you need both words and equations in your solution. The lecture supplement ({{% resource_link "c9bcd8f1-8fcb-4768-bbd7-05bf1beb1498" "Supplementary Notes 1" %}}) will review the proper format for writing up your solutions.
 
 *Due Dates*: Except for the last assignment, problem sets will be due on Wednesday the morning before the start of class. The last assignment will be due on the day before the final exam..
 
